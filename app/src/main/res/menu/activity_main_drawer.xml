@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/ic_search"
+            android:title="Caută rută" />
+        <item
+            android:id="@+id/nav_fav"
+            android:icon="@drawable/ic_favorite"
+            android:title="Favorite" />
+        <item
+            android:id="@+id/nav_tren"
+            android:icon="@drawable/ic_train"
+            android:title="Caută tren" />
+        <item
+            android:id="@+id/nav_trenul_meu"
+            android:icon="@drawable/ic_trenul_meu"
+            android:title="Trenul Meu" />
+    </group>
+    <item android:title="Contact">
+        <menu>
+            <item
+                android:id="@+id/nav_paypal"
+                android:icon="@drawable/ic_paypal"
+                android:title="Paypal" />
+        </menu>
+    </item>
+</menu>

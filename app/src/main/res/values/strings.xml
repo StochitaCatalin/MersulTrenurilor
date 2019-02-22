@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mersul Trenurilor</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <!--<string name="banner_id">ca-app-pub-8792771981687550/4476355349</string>-->
+    <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
